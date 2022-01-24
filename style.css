@@ -70,24 +70,15 @@ Projcet
 *******************/
 #project{
     margin: 60px auto;
+   width: 80%;
+    /* max-width: 1300px; */  
+}
+#project h2{
     text-align: center;
-    max-width: 1300px;
-    
-    
 }
-#project .card_project{
-      
-   text-align: left;
-   
-    margin-left: -20px;
-}
-
-
-
-
 #project .card-title{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 30px;  
 }
 #project .card img{
     width: 100%;
