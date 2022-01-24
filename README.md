@@ -1,5 +1,4 @@
 # Portfolio
-# portfolio
 
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show cas my projects
 
