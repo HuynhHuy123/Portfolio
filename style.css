@@ -1,85 +1,86 @@
-body{
-    font-family:monospace, sans-serif;
-    justify-content: center;
-
+body {
+  font-family: monospace, sans-serif;
+  justify-content: center;
 }
-.font-primary{
-    color: #06FE27;
+.font-primary {
+  color: #06fe27;
 }
-.title-icon{
-    font-size: 20px;
-    font-weight: bold;
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
 }
-p{
-     font-size: 20px;
-     color: #004402;
+p {
+  font-size: 20px;
+  color: #004402;
 }
-h2{
-    font-weight: bold ;
-    font-size: 40px;
-    margin-bottom: 20px;
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 20px;
 }
-<!-- Question-->
-a.font-black{
-    color: black !important;
-    
+<!-- Question-- > a.font-black {
+  color: black !important;
 }
 
-#about{
-    margin: 60px auto;
-    max-width: 400px ;
-    text-align: center;
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
 }
-#about img{
-    border-radius: 50%;
-    width: 180px;
-    height: 180px;
-    margin-bottom: 10px;
+#about img {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  margin-bottom: 10px;
 }
-#about .name{
-    font-size: 20px;
-    font-weight: bold;
-
+#about .name {
+  font-size: 20px;
+  font-weight: bold;
 }
-#about .vocation{
-    font-size: 17px;
-    color: #000;
-    margin-bottom: 10px;
-    font-weight: bold;
+#about .vocation {
+  font-size: 17px;
+  color: #000;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
-#about .skills{
-    font-size: 25px;
-    color: #03C845;
-    margin-bottom: 10px;
-
+#about .skills {
+  font-size: 25px;
+  color: #03c845;
+  margin-bottom: 10px;
 }
-#about .contact{
-    font-size: 25px;
-    color: #03C845;
-    margin-bottom: 20px;
+#about .contact {
+  font-size: 25px;
+  color: #03c845;
+  margin-bottom: 20px;
 }
-#about .icons{
-    font-size: 40px;
-    margin-top: 20px;
+#about .icons {
+  font-size: 40px;
+  margin-top: 20px;
 }
-#about .icons a{
-    color: black;
+#about .icons a {
+  color: black;
 }
 /*******************
 Projcet
 *******************/
-#project{
-    margin: 60px auto;
-   width: 80%;
-    /* max-width: 1300px; */  
+#project {
+  margin: 60px auto;
+  width: 80%;
+  /* max-width: 1300px; */
 }
-#project h2{
-    text-align: center;
+#project h2 {
+  text-align: center;
 }
-#project .card-title{
-    font-weight: bold;
-    font-size: 30px;  
+#project .card-title {
+  font-weight: bold;
+  font-size: 30px;
 }
-#project .card img{
-    width: 100%;
+p {
+  font-size: 14px;
 }
+#project .card video {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+}
+
